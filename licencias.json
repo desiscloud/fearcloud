@@ -1,0 +1,303 @@
+{
+  "clientes": [
+    {
+      "cuit": "20218501169",
+      "estado": false,
+      "razonsocial": "diego rodrigo ares",
+      "nombrecomercial": "desis"
+    },
+    {
+      "cuit": "27182218699",
+      "estado": true,
+      "razonsocial": "alicia gladys seita",
+      "nombrecomercial": "pablo martin cesari"
+    },
+    {
+      "cuit": "30696293216",
+      "estado": true,
+      "razonsocial": "sistemas hgc srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30709109746",
+      "estado": true,
+      "razonsocial": "tecno confor srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "20249660206",
+      "estado": true,
+      "razonsocial": "hernan gustavo fasani",
+      "nombrecomercial": "peque pack"
+    },
+    {
+      "cuit": "20228625605",
+      "estado": true,
+      "razonsocial": "miguel angel di vito",
+      "nombrecomercial": "md racing"
+    },
+    {
+      "cuit": "20228339467",
+      "estado": true,
+      "razonsocial": "pablo daniel coronel",
+      "nombrecomercial": "grafica coronel"
+    },
+    {
+      "cuit": "30711926972",
+      "estado": true,
+      "razonsocial": "gases 3 de febrero srl",
+      "nombrecomercial": "oxibosch"
+    },
+    {
+      "cuit": "23185548244",
+      "estado": true,
+      "razonsocial": "paula virginia prati",
+      "nombrecomercial": "tierra de crecimiento"
+    },
+    {
+      "cuit": "30709328995",
+      "estado": true,
+      "razonsocial": "1989 estudio a srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30642336114",
+      "estado": true,
+      "razonsocial": "altergarten sa",
+       "nombrecomercial": "clinica altergarten"
+    },
+    {
+      "cuit": "20206332825",
+      "estado": true,
+      "razonsocial": "sergio salvador saitta",
+      "nombrecomercial": "exelgraf"
+    },
+    {
+      "cuit": "30708736100",
+      "estado": true,
+      "razonsocial": "etiquetarte srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30715221485",
+      "estado": true,
+      "razonsocial": "ortopedia villarroel srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30711480427",
+      "estado": true,
+      "razonsocial": "gases del norte srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30714931721",
+      "estado": true,
+      "razonsocial": "galvanoplastia chromium srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30709165190",
+      "estado": true,
+      "razonsocial": "industermic sa",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "20121639085",
+      "estado": true,
+      "razonsocial": "carlos alberto correa",
+      "nombrecomercial": "etcc"
+    },
+    {
+      "cuit": "30715144944",
+      "estado": true,
+      "razonsocial": "niro transportes y servicios srl",
+      "nombrecomercial": "transportes niro"
+    },
+    {
+      "cuit": "33605517809",
+      "estado": true,
+      "razonsocial": "del re hermanos srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30690953311",
+      "estado": true,
+      "razonsocial": "trunil sa",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30715523880",
+      "estado": true,
+      "razonsocial": "euro jamones srl",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30710906242",
+      "estado": true,
+      "razonsocial": "textil gorla sa",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "30715153447",
+      "estado": true,
+      "razonsocial": "cooperativa de trabajo esfuerzo y perseverancia limitada",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "20292184108",
+      "estado": true,
+      "razonsocial": "carlos diego lazarte",
+       "nombrecomercial": "dilaz autoelevadores"
+    },  
+    {
+      "cuit": "20183180933",
+      "estado": true,
+      "razonsocial": "gerardo ariel sapia",
+      "nombrecomercial": "opus gym"
+    },
+    {
+      "cuit": "20251543241",
+      "estado": true,
+      "razonsocial": "mauro javier verzola",
+      "nombrecomercial": "plastibaires"
+    },
+    {
+      "cuit": "30718263243",
+      "estado": true,
+      "razonsocial": "autopartes m3 accesorios srl",
+      "nombrecomercial": "autopartes m3 accesorios"
+    },
+    {
+      "cuit": "20246691771",
+      "estado": true,
+      "razonsocial": "nanuel facundo diaz",
+      "nombrecomercial": "autopartes m3 accesorios"
+    },
+    {
+      "cuit": "27300814544",
+      "estado": true,
+      "razonsocial": "natalia soledad benitez",
+      "nombrecomercial": "distribuidores de panificados"
+    },
+    {
+      "cuit": "20330187779",
+      "estado": true,
+      "razonsocial": "santiago calderon",
+      "nombrecomercial": "baterias bsm"
+    },
+    {
+      "cuit": "20225286508",
+      "estado": true,
+      "razonsocial": "mauricio franco guaglianone",
+      "nombrecomercial": "baterias andina"
+    },
+    {
+      "cuit": "27278760524",
+      "estado": true,
+      "razonsocial": "adriana beatriz lopez",
+      "nombrecomercial": "autoservicio la 25"
+    },
+    {
+      "cuit": "20240427843",
+      "estado": true,
+      "razonsocial": "sebastian pablo de simone",
+      "nombrecomercial": "estudio contable de simone"
+    },
+    {
+      "cuit": "27322523535",
+      "estado": true,
+      "razonsocial": "carmen edith pajon",
+      "nombrecomercial": "pintushop"
+    },
+    {
+      "cuit": "27126240991",
+      "estado": true,
+      "razonsocial": "martha yolanda ramirez",
+      "nombrecomercial": "pintushop"
+    },
+    {
+      "cuit": "20207616444",
+      "estado": true,
+      "razonsocial": "fabio framarin",
+      "nombrecomercial": "pintushop"
+    },
+    {
+      "cuit": "27257705345",
+      "estado": true,
+      "razonsocial": "analia veronica di tore",
+      "nombrecomercial": "mayorista la familia"
+    },
+    {
+      "cuit": "20408611475",
+      "estado": true,
+      "razonsocial": "patricio robledo",
+      "nombrecomercial": "chroma pinturerias"
+    },
+    {
+      "cuit": "27284385883",
+      "estado": true,
+      "razonsocial": "gladys andrea pajon",
+      "nombrecomercial": "pintushop"
+    },
+    {
+      "cuit": "30690060767",
+      "estado": true,
+      "razonsocial": "farmacia amalia sociedad en comandita simple",
+      "nombrecomercial": "farmacia amalia"
+    },
+    {
+      "cuit": "20236492746",
+      "estado": true,
+      "razonsocial": "ariel fernando martire",
+      "nombrecomercial": "pinturerias acuario"
+    },
+    {
+      "cuit": "20289831976",
+      "estado": true,
+      "razonsocial": "maximiliano agustin gavazzi",
+      "nombrecomercial": "mas limpio"
+    },
+    {
+      "cuit": "30716042495",
+      "estado": true,
+      "razonsocial": "foco consultora sa",
+      "nombrecomercial": ""
+    },
+    {
+      "cuit": "27403085966",
+      "estado": true,
+      "razonsocial": "agustina antonela minchiotti",
+      "nombrecomercial": "distribuidora cerise"
+    },
+    {
+      "cuit": "27392670004",
+      "estado": true,
+      "razonsocial": "irina micaela becker",
+      "nombrecomercial": "meir indumentaria"
+    },
+    {
+      "cuit": "20211403595",
+      "estado": true,
+      "razonsocial": "diego hernan bernardello",
+      "nombrecomercial": "helado mania"
+    },
+    {
+      "cuit": "30660176159",
+      "estado": true,
+      "razonsocial": "farmacia ana en comandita simple",
+      "nombrecomercial": "farmacia ana"
+    },
+    {
+      "cuit": "20171420424",
+      "estado": true,
+      "razonsocial": "marcelo jose perazzelli",
+      "nombrecomercial": "golosinas caramelito"
+    },{
+      "cuit": "30716786699",
+      "estado": true,
+      "razonsocial": "grupo dinal sa",
+      "nombrecomercial": "dinal"
+    }
+  ]
+}
