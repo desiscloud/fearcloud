@@ -2,7 +2,7 @@
   "clientes": [
     {
       "cuit": "20218501169",
-      "estado": false,
+      "estado": true,
       "razonsocial": "diego rodrigo ares",
       "nombrecomercial": "desis"
     },
