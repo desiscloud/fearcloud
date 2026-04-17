@@ -64,7 +64,7 @@
       "cuit": "30642336114",
       "estado": true,
       "razonsocial": "altergarten sa",
-       "nombrecomercial": "clinica altergarten"
+      "nombrecomercial": "clinica altergarten"
     },
     {
       "cuit": "20206332825",
@@ -148,8 +148,8 @@
       "cuit": "20292184108",
       "estado": true,
       "razonsocial": "carlos diego lazarte",
-       "nombrecomercial": "dilaz autoelevadores"
-    },  
+      "nombrecomercial": "dilaz autoelevadores"
+    },
     {
       "cuit": "20183180933",
       "estado": true,
@@ -299,7 +299,8 @@
       "estado": true,
       "razonsocial": "marcelo jose perazzelli",
       "nombrecomercial": "golosinas caramelito"
-    },{
+    },
+    {
       "cuit": "30716786699",
       "estado": true,
       "razonsocial": "grupo dinal sa",
