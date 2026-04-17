@@ -205,6 +205,12 @@
       "nombrecomercial": "estudio contable de simone"
     },
     {
+      "cuit": "23283692744",
+      "estado": false,
+      "razonsocial": "vanesa georgina angiolillo",
+      "nombrecomercial": ""
+    },
+    {
       "cuit": "27322523535",
       "estado": true,
       "razonsocial": "carmen edith pajon",
