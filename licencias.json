@@ -121,6 +121,12 @@
       "nombrecomercial": "transportes niro"
     },
     {
+      "cuit": "30716379546",
+      "estado": true,
+      "razonsocial": "villa toscana srl",
+      "nombrecomercial": ""
+    },
+    {
       "cuit": "33605517809",
       "estado": true,
       "razonsocial": "del re hermanos srl",
@@ -212,7 +218,7 @@
     },
     {
       "cuit": "23283692744",
-      "estado": false,
+      "estado": true,
       "razonsocial": "vanesa georgina angiolillo",
       "nombrecomercial": ""
     },
