@@ -194,7 +194,7 @@
     },
     {
       "cuit": "20330187779",
-      "estado": true,
+      "estado": false,
       "razonsocial": "santiago calderon",
       "nombrecomercial": "baterias bsm"
     },
@@ -224,19 +224,19 @@
     },
     {
       "cuit": "27322523535",
-      "estado": true,
+      "estado": false,
       "razonsocial": "carmen edith pajon",
       "nombrecomercial": "pintushop"
     },
     {
       "cuit": "27126240991",
-      "estado": true,
+      "estado": false,
       "razonsocial": "martha yolanda ramirez",
       "nombrecomercial": "pintushop"
     },
     {
       "cuit": "20207616444",
-      "estado": true,
+      "estado": false,
       "razonsocial": "fabio framarin",
       "nombrecomercial": "pintushop"
     },
