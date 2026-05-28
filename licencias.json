@@ -193,12 +193,6 @@
       "nombrecomercial": "distribuidores de panificados"
     },
     {
-      "cuit": "20330187779",
-      "estado": false,
-      "razonsocial": "santiago calderon",
-      "nombrecomercial": "baterias bsm"
-    },
-    {
       "cuit": "20225286508",
       "estado": true,
       "razonsocial": "mauricio franco guaglianone",
@@ -236,7 +230,7 @@
     },
     {
       "cuit": "20207616444",
-      "estado": false,
+      "estado": true,
       "razonsocial": "fabio framarin",
       "nombrecomercial": "pintushop"
     },
