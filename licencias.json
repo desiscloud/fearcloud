@@ -218,13 +218,13 @@
     },
     {
       "cuit": "27322523535",
-      "estado": false,
+      "estado": true,
       "razonsocial": "carmen edith pajon",
       "nombrecomercial": "pintushop"
     },
     {
       "cuit": "27126240991",
-      "estado": false,
+      "estado": true,
       "razonsocial": "martha yolanda ramirez",
       "nombrecomercial": "pintushop"
     },
