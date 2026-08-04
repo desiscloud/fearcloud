@@ -260,9 +260,15 @@
     },
     {
       "cuit": "27425717052",
-      "estado": true,
+      "estado": false,
       "razonsocial": "micaela ailen herrera",
-      "nombrecomercial": "pintushop"
+      "nombrecomercial": "pinturerias beltran"
+    },
+    {
+      "cuit": "20391138444",
+      "estado": true,
+      "razonsocial": "nestor ariel herrera",
+      "nombrecomercial": "pinturerias beltran"
     },
     {
       "cuit": "30690060767",
