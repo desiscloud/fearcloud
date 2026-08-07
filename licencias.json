@@ -98,13 +98,13 @@
     },
     {
       "cuit": "30714931721",
-      "estado": false,
+      "estado": true,
       "razonsocial": "galvanoplastia chromium srl",
       "nombrecomercial": ""
     },
     {
       "cuit": "30709165190",
-      "estado": false,
+      "estado": true,
       "razonsocial": "industermic sa",
       "nombrecomercial": ""
     },
